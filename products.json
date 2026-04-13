@@ -14,5 +14,21 @@
     "discount": 33,
     "delivery": "2-3 дня",
     "image": "images/watch.jpg"
+  },
+  {
+    "name": "Чехол на все айфоны",
+    "price": "50 000 сум",
+    "oldPrice": "60 000 сум",
+    "discount": 20,
+    "delivery": "2-3 дня",
+    "image": "images/case.jpg"
+  },
+  {
+    "name": "Подставка для телефона",
+    "price": "45 000 сум",
+    "oldPrice": "50 000 сум",
+    "discount": 10,
+    "delivery": "2-3 дня",
+    "image": "images/phone-stand.jpg"
   }
 ]

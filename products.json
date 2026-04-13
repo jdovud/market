@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BMW Poster",
+    "price": "40 000 сум",
+    "oldPrice": "60 000 сум",
+    "discount": 33,
+    "delivery": "2-3 дня",
+    "image": "images/poster.jpg"
+  }
+]

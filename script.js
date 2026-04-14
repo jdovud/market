@@ -1,4 +1,4 @@
-const TELEGRAM_USERNAME = "YOUR_USERNAME";
+const TELEGRAM_USERNAME = "dovud_0fficial";
 
 fetch("products.json")
   .then(res => res.json())
